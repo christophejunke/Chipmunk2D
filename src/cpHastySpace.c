@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include <pthread.h>
+#include "../mt/pthread.h"
 //#include <sys/param.h >
 #ifndef _WIN32
 #include <sys/sysctl.h>
